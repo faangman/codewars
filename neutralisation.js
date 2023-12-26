@@ -15,3 +15,4 @@ function neutralisation(s1, s2) {
     }
     var stringResult = arrayResult.join("");
     return stringResult;
+};
